@@ -2,6 +2,15 @@
   text-align: center;
 }
 
+.h1{
+  text-align: center;
+  text-underline-position: below;
+  background-color: black;
+  color: white;
+  border: 2px solid rgb(70, 117, 197);
+  box-shadow: 10px 0px 10px #61dafb;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;

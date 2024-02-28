@@ -1,0 +1,38 @@
+*{
+  background-color: #3b6a98;
+}
+
+.Parent {
+    margin-top: 80px;
+  }
+  .card {
+    height: 550px;
+    width: 400px;
+    margin: auto;
+    box-shadow: 10px 10px 10px hsl(0, 0%, 0%);
+    border-color: #494a4e;
+    background-color: #3b6a98;
+  }
+  .card-img-top {
+    height: 300px;
+    width: 397px;
+    border: 2px solid rgb(252, 251, 251);
+    border-radius:0px 0px 5px 5px;
+  }
+  .card-body {
+    margin-top: 5px;
+    border-radius: 5px 5px;
+    text-align: center;
+    background-color: #3b6a98;
+    padding: 2px;
+    border: 2px solid rgb(252, 251, 251);
+  }
+  .card-title {
+    text-shadow: 0px 10px 10px rgb(4, 41, 66), 2px 0px 20px rgb(5, 5, 5);
+    font-family: Georgia, "Times New Roman", Times, serif;
+    color: aliceblue;
+  }
+  h2 {
+    color: #faf9f8;
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
